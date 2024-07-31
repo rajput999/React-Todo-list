@@ -1,5 +1,9 @@
 # Todo List Application
 
+## Live Demo
+
+Check out the deployed application [here](https://main--todolistra.netlify.app/).
+
 ## Overview
 
 This project is a frontend Todo List application built using Reacts. The application allows users to create, update, mark as done, and search tasks. The tasks are displayed in an expandable list format, showing a description and a timestamp of the last update when expanded. 
